@@ -1,6 +1,10 @@
 [package]
 name = "csv-to-json"
 version = "0.1.0"
+description = "A little to to convert a csv to a valid json array of object"
+license = "MIT"
+repository = "https://github.com/Kerollmops/csv-to-json"
+readme = "README.md"
 authors = ["Clément Renault <clement@meilisearch.com>"]
 edition = "2018"
 
